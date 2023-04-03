@@ -1,7 +1,7 @@
 {
-    "name": "codebois/users",
+    "name": "codebois/framework",
     "type": "library",
-    "description": "USERS library, up to specific project",
+    "description": "FRAMEWORK library, up to specific project",
     "license": "proprietary",
     "authors": [
         {
