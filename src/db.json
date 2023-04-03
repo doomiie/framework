@@ -1,0 +1,6 @@
+{
+    "host":  "localhost", 
+    "username": "phpmyadmin",
+    "password": "sevenof9",
+    "database": "qrcodes"
+}

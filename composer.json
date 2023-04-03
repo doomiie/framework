@@ -1,0 +1,21 @@
+{
+    "name": "codebois/users",
+    "type": "library",
+    "description": "USERS library, up to specific project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jerzy",
+            "email": "jerzy@zientkowski.pl"
+        }
+    ],    
+    "require": {
+        "php": ">=7.1 <9.0",
+        "codebois/database": ">1.0.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "database\\": "src" 
+        }
+    }
+}
