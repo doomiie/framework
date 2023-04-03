@@ -18,7 +18,7 @@
  
  */
 
- namespace codebois\management\users;
+ namespace management\users;
 
 class user 
 {

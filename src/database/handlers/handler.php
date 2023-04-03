@@ -18,7 +18,7 @@
  
  */
 
- namespace codebois\database\handlers;
+ namespace database\handlers;
 
 class handler
 {

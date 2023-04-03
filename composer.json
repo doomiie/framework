@@ -10,13 +10,13 @@
         }
     ],    
     "require": {
-        "php": ">=7.1 <9.0",
-        "codebois/database": ">1.0.9"
+        "php": ">=7.1 <9.0"
+        
     },
     "autoload": {
         "psr-4": {
-            "users\\": "src\\management\\users",
-            "handlers\\": "src\\database\\handlers"
+            "management\\users\\": "src\\",
+            "database\\handlers\\": "src\\"
         }
     }
 }
